@@ -1,3 +1,15 @@
+/*
+   Fundacion Kinal
+   Centro educativo tecnico laboral Kinal
+   Quinto perito
+   Quinto electronica
+   Codigo Tecnico: EB5AV / EB5AV 
+   Curso: Taller de electronica digital y reparacion de computadoras I
+   Proyecto: Proyecto final taller, 5to bimestre, DIMER
+   Dev: Josivar Sebastian Rayjam Alva López
+   Fecha: 4/10/2024
+   link de la simulacion: 
+*/
 
 #include <Servo.h> 
 Servo servo1;         // Crea el servo1 con las librerias de Servo.h
